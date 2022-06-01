@@ -1,0 +1,10 @@
+D:\Рабочий стол\Прикладное прог\WinFormC#\Zadanie3\bin\Debug\Zadanie3.exe.config
+D:\Рабочий стол\Прикладное прог\WinFormC#\Zadanie3\bin\Debug\Zadanie3.exe
+D:\Рабочий стол\Прикладное прог\WinFormC#\Zadanie3\bin\Debug\Zadanie3.pdb
+D:\Рабочий стол\Прикладное прог\WinFormC#\Zadanie3\obj\Debug\Zadanie3.csproj.AssemblyReference.cache
+D:\Рабочий стол\Прикладное прог\WinFormC#\Zadanie3\obj\Debug\Zadanie3.Form1.resources
+D:\Рабочий стол\Прикладное прог\WinFormC#\Zadanie3\obj\Debug\Zadanie3.Properties.Resources.resources
+D:\Рабочий стол\Прикладное прог\WinFormC#\Zadanie3\obj\Debug\Zadanie3.csproj.GenerateResource.cache
+D:\Рабочий стол\Прикладное прог\WinFormC#\Zadanie3\obj\Debug\Zadanie3.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Прикладное прог\WinFormC#\Zadanie3\obj\Debug\Zadanie3.exe
+D:\Рабочий стол\Прикладное прог\WinFormC#\Zadanie3\obj\Debug\Zadanie3.pdb
